@@ -1,0 +1,18 @@
+[submodule "icsnpp-bacnet"]
+	path = icsnpp-bacnet
+	url = https://github.com/cisagov/icsnpp-bacnet
+[submodule "icsnpp-bsap-ip"]
+	path = icsnpp-bsap-ip
+	url = https://github.com/cisagov/icsnpp-bsap-ip
+[submodule "icsnpp-bsap-serial"]
+	path = icsnpp-bsap-serial
+	url = https://github.com/cisagov/icsnpp-bsap-serial
+[submodule "icsnpp-enip"]
+	path = icsnpp-enip
+	url = https://github.com/cisagov/icsnpp-enip
+[submodule "icsnpp-dnp3"]
+	path = icsnpp-dnp3
+	url = https://github.com/cisagov/icsnpp-dnp3
+[submodule "icsnpp-modbus"]
+	path = icsnpp-modbus
+	url = https://github.com/cisagov/icsnpp-modbus
