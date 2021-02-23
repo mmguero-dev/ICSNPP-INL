@@ -1,18 +1,24 @@
 [submodule "icsnpp-bacnet"]
 	path = icsnpp-bacnet
-	url = https://github.com/cisagov/icsnpp-bacnet
+	url = git@github.com:mmguero-dev/icsnpp-bacnet.git
+	branch = master
 [submodule "icsnpp-bsap-ip"]
 	path = icsnpp-bsap-ip
-	url = https://github.com/cisagov/icsnpp-bsap-ip
+	url = git@github.com:mmguero-dev/icsnpp-bsap-ip.git
+	branch = master
 [submodule "icsnpp-bsap-serial"]
 	path = icsnpp-bsap-serial
-	url = https://github.com/cisagov/icsnpp-bsap-serial
+	url = git@github.com:mmguero-dev/icsnpp-bsap-serial.git
+	branch = master
 [submodule "icsnpp-enip"]
 	path = icsnpp-enip
-	url = https://github.com/cisagov/icsnpp-enip
+	url = git@github.com:mmguero-dev/icsnpp-enip.git
+	branch = master
 [submodule "icsnpp-dnp3"]
 	path = icsnpp-dnp3
-	url = https://github.com/cisagov/icsnpp-dnp3
+	url = git@github.com:mmguero-dev/icsnpp-dnp3.git
+	branch = master
 [submodule "icsnpp-modbus"]
 	path = icsnpp-modbus
-	url = https://github.com/cisagov/icsnpp-modbus
+	url = git@github.com:mmguero-dev/icsnpp-modbus.git
+	branch = master
